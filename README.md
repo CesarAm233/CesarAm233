@@ -17,7 +17,7 @@ Soy estudiante del Instituto Tecnologico de Tijuana
 Horario
 
 
-|------------------------|---------|-------|
+
 |                        |         |       |
 |  Sistemas  Programables| 17:00 	 | 18:00 |
 |------------------------|---------|-------|
