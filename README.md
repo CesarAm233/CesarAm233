@@ -1,5 +1,5 @@
 
-<a href="http://cooltext.com" target="_top"><img src="https://i.blogs.es/28187b/hearthstonepelesdetaberna/450_1000.jpg" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+![](https://i.blogs.es/28187b/hearthstonepelesdetaberna/450_1000.jpg)
 
 ### Hola, soy César 👋
 
